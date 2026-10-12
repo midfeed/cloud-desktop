@@ -1,7 +1,9 @@
 {
   "releaseId": 411032870,
   "tag": "v1.2.11",
-  "status": "sending",
+  "status": "sent",
   "startedAt": "2026-10-12T22:08:02.620Z",
-  "payloadSha256": "a14a6827b2ad848a6b4962637d2bce42a53702dab46e046ea4102d2f6c6ff655"
+  "payloadSha256": "a14a6827b2ad848a6b4962637d2bce42a53702dab46e046ea4102d2f6c6ff655",
+  "messageId": "1559326815896600658",
+  "sentAt": "2026-10-12T22:08:03.922Z"
 }
